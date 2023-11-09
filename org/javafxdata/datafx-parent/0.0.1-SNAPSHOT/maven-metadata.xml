@@ -3,16 +3,16 @@
   <groupId>org.javafxdata</groupId>
   <artifactId>datafx-parent</artifactId>
   <versioning>
-    <lastUpdated>20231109153442</lastUpdated>
+    <lastUpdated>20231109153751</lastUpdated>
     <snapshot>
-      <timestamp>20231109.153442</timestamp>
+      <timestamp>20231109.153751</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20231109.153442-1</value>
-        <updated>20231109153442</updated>
+        <value>0.0.1-20231109.153751-1</value>
+        <updated>20231109153751</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
